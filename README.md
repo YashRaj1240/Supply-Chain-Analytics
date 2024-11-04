@@ -1,6 +1,6 @@
 # Supply Chain Analytics
 
-![Supply Chain Dashboard](images/supply_chain_dashboard.png)
+![Supply Chain Dashboard](https://github.com/YashRaj1240/Supply-Chain-Analytics/blob/bbbe616b7f73d6f2dc8ee4e0312000c27d0d2537/supply%20chain%20anlytics.png)
 
 ## Overview
 
