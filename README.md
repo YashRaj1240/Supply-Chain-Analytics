@@ -48,7 +48,7 @@ The Power BI dashboard includes various charts and graphs for an intuitive and i
 
 The full Supply Chain Analytics report, complete with visualizations, is available for download:
 
-[Download the Supply Chain Analytics PDF Report](docs/Supply_Chain_Analytics.pdf)
+[Download the Supply Chain Analytics PDF Report](https://github.com/YashRaj1240/Supply-Chain-Analytics/blob/615bd9746c8ca06c2f6706f206042bcc0e645df6/Supply%20Chain%20Analytics.pdf)
 
 ## Conclusion
 
